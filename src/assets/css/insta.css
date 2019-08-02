@@ -1,0 +1,1014 @@
+.page-content .card-title {
+    margin-bottom: 0; }
+  
+  .page-content .card-block {
+    padding: 12px 12px; }
+  
+  @media (max-width: 479.98px) {
+    .page-header-tabs .nav-tabs-line .nav-link {
+      padding: 5px 12px; } }
+  
+  .overflow-300{
+      overflow:hidden;
+      max-width:100%;
+      position:relative;
+      white-space: nowrap;
+  }
+  
+  .overflow-300:after{
+      content:'';
+      position: absolute;
+  
+      left:100%;
+      margin-left: -100px;
+      width: 100px;
+      height:100%;
+      top:0;
+      background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1));
+  }
+  
+  #ARTICLE_1 {
+      bottom: 0px;
+      box-sizing: border-box;
+      display: flex;
+      height: auto;
+      left: 0px;
+      min-height: auto;
+      min-width: auto;
+      position: relative;
+      right: 0px;
+      text-size-adjust: 100%;
+      top: 0px;
+      width: 100%;
+      align-items: stretch;
+      perspective-origin: 308px 543.933px;
+      transform-origin: 308px 543.942px;
+      background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box;
+      border: 1px solid rgb(230, 230, 230);
+      border-radius: 3px 3px 3px 3px;
+      flex: 0 0 auto;
+      flex-flow: column nowrap;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 0px -1px 0px;
+  }/*#ARTICLE_1*/
+  
+  #ARTICLE_1:after {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#ARTICLE_1:after*/
+  
+  #ARTICLE_1:before {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#ARTICLE_1:before*/
+  
+  #HEADER_2 {
+      bottom: 0px;
+      box-sizing: border-box;
+      display: flex;
+      height: 60px;
+      left: 0px;
+      min-height: auto;
+      min-width: auto;
+      position: relative;
+      right: 0px;
+      text-size-adjust: 100%;
+      top: 0px;
+      width: auto;
+      align-items: center;
+      perspective-origin: 307px 30px;
+      transform-origin: 307px 30px;
+      border-top: 0px solid rgb(0, 0, 0);
+      border-right: 0px solid rgb(0, 0, 0);
+      border-bottom: 1px solid rgb(239, 239, 239);
+      border-left: 0px solid rgb(0, 0, 0);
+      flex: 0 0 auto;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      padding: 16px;
+  }/*#HEADER_2*/
+  
+  #HEADER_2:after {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#HEADER_2:after*/
+  
+  #HEADER_2:before {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#HEADER_2:before*/
+  
+  #DIV_3 {
+      bottom: 0px;
+      box-sizing: border-box;
+      height: 34px;
+      left: 0px;
+      min-height: auto;
+      min-width: auto;
+      position: relative;
+      right: 0px;
+      text-size-adjust: 100%;
+      top: 0px;
+      width: 34px;
+      align-items: stretch;
+      align-self: center;
+      perspective-origin: 17px 17px;
+      transform-origin: 17px 17px;
+      border: 0px solid rgb(0, 0, 0);
+      flex: 0 0 auto;
+      flex-flow: column nowrap;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_3*/
+  
+  #DIV_3:after {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_3:after*/
+  
+  #DIV_3:before {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_3:before*/
+  
+  #CANVAS_4 {
+      bottom: -5px;
+      display: block;
+      height: 44px;
+      left: -5px;
+      position: absolute;
+      right: -5px;
+      text-size-adjust: 100%;
+      top: -5px;
+      width: 44px;
+      perspective-origin: 22px 22px;
+      transform-origin: 22px 22px;
+      user-select: none;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#CANVAS_4*/
+  
+  #CANVAS_4:after {
+      text-size-adjust: 100%;
+      user-select: none;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#CANVAS_4:after*/
+  
+  #CANVAS_4:before {
+      text-size-adjust: 100%;
+      user-select: none;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#CANVAS_4:before*/
+  
+  #A_5 {
+      bottom: 0px;
+      box-sizing: border-box;
+      color: rgb(0, 53, 105);
+      display: block;
+      height: 34px;
+      left: 0px;
+      position: relative;
+      right: 0px;
+      text-decoration: none solid rgb(0, 53, 105);
+      text-size-adjust: 100%;
+      top: 0px;
+      width: 34px;
+      column-rule-color: rgb(0, 53, 105);
+      perspective-origin: 17px 17px;
+      transform-origin: 17px 17px;
+      caret-color: rgb(0, 53, 105);
+      background: rgb(250, 250, 250) none repeat scroll 0% 0% / auto padding-box border-box;
+      border: 0px none rgb(0, 53, 105);
+      border-radius: 50% 50% 50% 50%;
+      flex: 0 0 auto;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      outline: rgb(0, 53, 105) none 0px;
+      overflow: hidden;
+  }/*#A_5*/
+  
+  #A_5:after {
+      bottom: 0px;
+      color: rgb(0, 53, 105);
+      content: '""';
+      display: block;
+      height: 32px;
+      left: 0px;
+      pointer-events: none;
+      position: absolute;
+      right: 0px;
+      text-decoration: none solid rgb(0, 53, 105);
+      text-size-adjust: 100%;
+      top: 0px;
+      width: 32px;
+      column-rule-color: rgb(0, 53, 105);
+      perspective-origin: 17px 17px;
+      transform-origin: 17px 17px;
+      caret-color: rgb(0, 53, 105);
+      border: 1px solid rgba(0, 0, 0, 0.098);
+      border-radius: 50% 50% 50% 50%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      outline: rgb(0, 53, 105) none 0px;
+  }/*#A_5:after*/
+  
+  #A_5:before {
+      color: rgb(0, 53, 105);
+      text-decoration: none solid rgb(0, 53, 105);
+      text-size-adjust: 100%;
+      column-rule-color: rgb(0, 53, 105);
+      caret-color: rgb(0, 53, 105);
+      border: 0px none rgb(0, 53, 105);
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      outline: rgb(0, 53, 105) none 0px;
+  }/*#A_5:before*/
+  
+  #IMG_6 {
+      color: rgb(0, 53, 105);
+      cursor: pointer;
+      height: 34px;
+      text-decoration: none solid rgb(0, 53, 105);
+      text-size-adjust: 100%;
+      width: 34px;
+      column-rule-color: rgb(0, 53, 105);
+      perspective-origin: 17px 17px;
+      transform-origin: 17px 17px;
+      caret-color: rgb(0, 53, 105);
+      border: 0px none rgb(0, 53, 105);
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      outline: rgb(0, 53, 105) none 0px;
+      border-radius: 50% 50%;
+  }/*#IMG_6*/
+  
+  #IMG_6:after {
+      color: rgb(0, 53, 105);
+      cursor: pointer;
+      text-decoration: none solid rgb(0, 53, 105);
+      text-size-adjust: 100%;
+      column-rule-color: rgb(0, 53, 105);
+      caret-color: rgb(0, 53, 105);
+      border: 0px none rgb(0, 53, 105);
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      outline: rgb(0, 53, 105) none 0px;
+  }/*#IMG_6:after*/
+  
+  #IMG_6:before {
+      color: rgb(0, 53, 105);
+      cursor: pointer;
+      text-decoration: none solid rgb(0, 53, 105);
+      text-size-adjust: 100%;
+      column-rule-color: rgb(0, 53, 105);
+      caret-color: rgb(0, 53, 105);
+      border: 0px none rgb(0, 53, 105);
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      outline: rgb(0, 53, 105) none 0px;
+  }/*#IMG_6:before*/
+  
+  #DIV_7 {
+      bottom: 0px;
+      box-sizing: border-box;
+      display: flex;
+      height: 17.0667px;
+      left: 0px;
+      min-height: auto;
+      min-width: auto;
+      position: relative;
+      right: 0px;
+      text-size-adjust: 100%;
+      top: 0px;
+      width: 532px;
+      align-items: flex-start;
+      perspective-origin: 266px 8.53333px;
+      transform-origin: 266px 8.53333px;
+      border: 0px solid rgb(0, 0, 0);
+      flex: 1 1 auto;
+      flex-flow: column nowrap;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 0px 0px 0px 16px;
+      overflow: hidden;
+  }/*#DIV_7*/
+  
+  #DIV_7:after {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_7:after*/
+  
+  #DIV_7:before {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_7:before*/
+  
+  #DIV_8 {
+      bottom: 0px;
+      box-sizing: border-box;
+      display: flex;
+      height: 17.0667px;
+      left: 0px;
+      max-width: 220px;
+      min-height: auto;
+      min-width: auto;
+      position: relative;
+      right: 0px;
+      text-size-adjust: 100%;
+      top: 0px;
+      width: 101.883px;
+      align-items: stretch;
+      perspective-origin: 50.9333px 8.53333px;
+      transform-origin: 50.9417px 8.53333px;
+      border: 0px solid rgb(0, 0, 0);
+      flex: 0 0 auto;
+      flex-flow: column nowrap;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_8*/
+  
+  #DIV_8:after {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_8:after*/
+  
+  #DIV_8:before {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_8:before*/
+  
+  #DIV_9 {
+      bottom: 0px;
+      box-sizing: border-box;
+      display: flex;
+      height: 17.0667px;
+      left: 0px;
+      max-width: 100%;
+      min-height: auto;
+      min-width: auto;
+      position: relative;
+      right: 0px;
+      text-size-adjust: 100%;
+      top: 0px;
+      width: 101.883px;
+      align-items: center;
+      perspective-origin: 50.9333px 8.53333px;
+      transform-origin: 50.9417px 8.53333px;
+      border: 0px solid rgb(0, 0, 0);
+      flex: 1 1 auto;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      overflow: hidden;
+  }/*#DIV_9*/
+  
+  #DIV_9:after {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_9:after*/
+  
+  #DIV_9:before {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_9:before*/
+  
+  #H2_10 {
+      height: 17.0667px;
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      width: 101.883px;
+      perspective-origin: 50.9333px 8.53333px;
+      transform-origin: 50.9417px 8.53333px;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 0px;
+  }/*#H2_10*/
+  
+  #H2_10:after {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#H2_10:after*/
+  
+  #H2_10:before {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#H2_10:before*/
+  
+  #A_11 {
+      color: rgb(38, 38, 38);
+      text-decoration: none solid rgb(38, 38, 38);
+      text-size-adjust: 100%;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      column-rule-color: rgb(38, 38, 38);
+      perspective-origin: 0px 0px;
+      transform-origin: 0px 0px;
+      caret-color: rgb(38, 38, 38);
+      border: 0px none rgb(38, 38, 38);
+      font: normal normal 600 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 0px 0px 0px -5px;
+      outline: rgb(38, 38, 38) none 0px;
+      overflow: hidden;
+      padding: 0px 0px 0px 5px;
+  }/*#A_11*/
+  
+  #A_11:after {
+      color: rgb(38, 38, 38);
+      text-decoration: none solid rgb(38, 38, 38);
+      text-size-adjust: 100%;
+      white-space: nowrap;
+      column-rule-color: rgb(38, 38, 38);
+      caret-color: rgb(38, 38, 38);
+      border: 0px none rgb(38, 38, 38);
+      font: normal normal 600 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      outline: rgb(38, 38, 38) none 0px;
+  }/*#A_11:after*/
+  
+  #A_11:before {
+      color: rgb(38, 38, 38);
+      text-decoration: none solid rgb(38, 38, 38);
+      text-size-adjust: 100%;
+      white-space: nowrap;
+      column-rule-color: rgb(38, 38, 38);
+      caret-color: rgb(38, 38, 38);
+      border: 0px none rgb(38, 38, 38);
+      font: normal normal 600 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      outline: rgb(38, 38, 38) none 0px;
+  }/*#A_11:before*/
+  
+  #DIV_12 {
+      bottom: 0px;
+      box-sizing: border-box;
+      height: 0px;
+      left: 0px;
+      max-width: 100%;
+      min-height: auto;
+      min-width: auto;
+      position: relative;
+      right: 0px;
+      text-size-adjust: 100%;
+      text-overflow: ellipsis;
+      top: 0px;
+      white-space: nowrap;
+      width: 0px;
+      align-items: stretch;
+      perspective-origin: 0px 0px;
+      transform-origin: 0px 0px;
+      border: 0px solid rgb(0, 0, 0);
+      flex: 0 0 auto;
+      flex-flow: column nowrap;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      overflow: hidden;
+  }/*#DIV_12*/
+  
+  #DIV_12:after {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      white-space: nowrap;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_12:after*/
+  
+  #DIV_12:before {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      white-space: nowrap;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_12:before*/
+  
+  #DIV_13, #DIV_14 {
+      bottom: 0px;
+      box-sizing: border-box;
+      display: flex;
+      height: 0px;
+      left: 0px;
+      position: relative;
+      right: 0px;
+      text-size-adjust: 100%;
+      top: 0px;
+      white-space: nowrap;
+      width: 0px;
+      align-items: stretch;
+      perspective-origin: 0px 0px;
+      transform-origin: 0px 0px;
+      border: 0px solid rgb(0, 0, 0);
+      flex: 0 0 auto;
+      flex-flow: column nowrap;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_13, #DIV_14*/
+  
+  #DIV_13:after, #DIV_14:after {
+      text-size-adjust: 100%;
+      white-space: nowrap;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_13:after, #DIV_14:after*/
+  
+  #DIV_13:before, #DIV_14:before {
+      text-size-adjust: 100%;
+      white-space: nowrap;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_13:before, #DIV_14:before*/
+  
+  #DIV_15 {
+      bottom: 0px;
+      box-sizing: border-box;
+      display: flex;
+      left: 0px;
+      min-height: auto;
+      min-width: auto;
+      position: relative;
+      right: 0px;
+      text-size-adjust: 100%;
+      top: 0px;
+      width: 100%;
+      align-items: stretch;
+      perspective-origin: 307px 383.75px;
+      transform-origin: 307px 383.75px;
+      border: 0px solid rgb(0, 0, 0);
+      flex: 0 0 auto;
+      flex-flow: column nowrap;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_15*/
+  
+  #DIV_15:after {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_15:after*/
+  
+  #DIV_15:before {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_15:before*/
+  
+  
+  #IMG_19 {
+      bottom: 0px;
+      display: block;
+      left: 0px;
+      object-fit: cover;
+      position: relative;
+      right: 0px;
+      text-size-adjust: 100%;
+      top: 0px;
+      width: 100%;
+      perspective-origin: 307px 383.75px;
+      transform-origin: 307px 383.75px;
+      user-select: none;
+      z-index: 2;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#IMG_19*/
+  
+  #IMG_19:after {
+      text-size-adjust: 100%;
+      user-select: none;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#IMG_19:after*/
+  
+  #IMG_19:before {
+      text-size-adjust: 100%;
+      user-select: none;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#IMG_19:before*/
+  
+  #DIV_21 {
+      bottom: 0px;
+      box-sizing: border-box;
+      display: flex;
+      height: auto;
+      left: 0px;
+      min-height: auto;
+      min-width: auto;
+      position: relative;
+      right: 0px;
+      text-size-adjust: 100%;
+      top: 0px;
+      width: 100%;
+      align-items: stretch;
+      perspective-origin: 307px 129.183px;
+      transform-origin: 307px 129.192px;
+      border: 0px solid rgb(0, 0, 0);
+      flex: 0 0 auto;
+      flex-flow: column nowrap;
+      padding: 10px 0px;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      min-height: 100px;
+  }/*#DIV_21*/
+  
+  #DIV_21:after {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_21:after*/
+  
+  #DIV_21:before {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_21:before*/
+  
+  #BUTTON_24, #BUTTON_27, #BUTTON_30, #BUTTON_33 {
+      background-position: 0px 0px;
+      cursor: pointer;
+      display: flex;
+      height: 40px;
+      min-height: 40px;
+      min-width: 40px;
+      text-size-adjust: 100%;
+      width: 40px;
+      align-items: center;
+      justify-content: center;
+      perspective-origin: 20px 20px;
+      transform-origin: 20px 20px;
+      background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box;
+      border: 0px none rgb(0, 0, 0);
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      padding: 0px;
+  }/*#BUTTON_24, #BUTTON_27, #BUTTON_30, #BUTTON_33*/
+  
+  #BUTTON_24:after, #BUTTON_27:after, #BUTTON_30:after, #BUTTON_33:after {
+      cursor: pointer;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#BUTTON_24:after, #BUTTON_27:after, #BUTTON_30:after, #BUTTON_33:after*/
+  
+  #BUTTON_24:before, #BUTTON_27:before, #BUTTON_30:before, #BUTTON_33:before {
+      cursor: pointer;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#BUTTON_24:before, #BUTTON_27:before, #BUTTON_30:before, #BUTTON_33:before*/
+  
+  
+  #DIV_40 {
+      bottom: 0px;
+      box-sizing: border-box;
+      display: flex;
+      height: auto;
+      left: 0px;
+      min-width: auto;
+      overflow-anchor: none;
+      position: relative;
+      right: 0px;
+      text-size-adjust: 100%;
+      top: 0px;
+      width: 100%;
+      align-items: stretch;
+      perspective-origin: 307px 53.5833px;
+      transform-origin: 307px 53.5917px;
+      border: 0px solid rgb(0, 0, 0);
+      flex: 1 1 auto;
+      flex-flow: column nowrap;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      overflow: hidden;
+      padding: 0px 16px;
+  }/*#DIV_40*/
+  
+  #DIV_40:after {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_40:after*/
+  
+  #DIV_40:before {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }/*#DIV_40:before*/
+  
+  #UL_41 {
+      height: auto;
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      width: 100%;
+      perspective-origin: 291px 53.5833px;
+      transform-origin: 291px 53.5917px;
+      flex: 1 1 auto;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+      margin: 0px;
+      padding: 0px;
+  }/*#UL_41*/
+  
+  #UL_41:after {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+  }/*#UL_41:after*/
+  
+  #UL_41:before {
+      min-height: auto;
+      min-width: auto;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+  }/*#UL_41:before*/
+  
+  #LI_42 {
+      bottom: 0px;
+      height: auto;
+      left: 0px;
+      overflow-wrap: break-word;
+      position: relative;
+      right: 0px;
+      text-size-adjust: 100%;
+      top: 0px;
+      width: 100%;
+      perspective-origin: 292px 22.5667px;
+      transform-origin: 292px 22.5667px;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+      margin: -5px -2px 0px 0px;
+      overflow: hidden;
+      padding: 5px 2px 6px 0px;
+  }/*#LI_42*/
+  
+  #LI_42:after {
+      overflow-wrap: break-word;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+  }/*#LI_42:after*/
+  
+  #LI_42:before {
+      overflow-wrap: break-word;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+  }/*#LI_42:before*/
+  
+  #DIV_43 {
+      bottom: 0px;
+      box-sizing: border-box;
+      display: flex;
+      height: auto;
+      left: 0px;
+      overflow-wrap: break-word;
+      position: relative;
+      right: 0px;
+      text-align: left;
+      text-size-adjust: 100%;
+      top: 0px;
+      width: 100%;
+      align-items: center;
+      justify-content: space-between;
+      perspective-origin: 291px 17.0667px;
+      transform-origin: 291px 17.0667px;
+      border: 0px solid rgb(0, 0, 0);
+      flex: 0 0 auto;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+  }/*#DIV_43*/
+  
+  #DIV_43:after {
+      overflow-wrap: break-word;
+      text-align: left;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+  }/*#DIV_43:after*/
+  
+  #DIV_43:before {
+      overflow-wrap: break-word;
+      text-align: left;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+  }/*#DIV_43:before*/
+  
+  #DIV_44 {
+      bottom: 0px;
+      box-sizing: border-box;
+      display: flex;
+      height: auto;
+      left: 0px;
+      min-height: auto;
+      min-width: auto;
+      overflow-wrap: break-word;
+      position: relative;
+      right: 0px;
+      text-align: left;
+      text-size-adjust: 100%;
+      top: 0px;
+      width: 100%;
+      align-items: stretch;
+      perspective-origin: 291px 17.0667px;
+      transform-origin: 291px 17.0667px;
+      border: 0px solid rgb(0, 0, 0);
+      flex: 0 0 auto;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+  }/*#DIV_44*/
+  
+  #DIV_44:after {
+      min-height: auto;
+      min-width: auto;
+      overflow-wrap: break-word;
+      text-align: left;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+  }/*#DIV_44:after*/
+  
+  #DIV_44:before {
+      min-height: auto;
+      min-width: auto;
+      overflow-wrap: break-word;
+      text-align: left;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+  }/*#DIV_44:before*/
+  
+  #DIV_45 {
+      bottom: 0px;
+      box-sizing: border-box;
+      height: auto;
+      left: 0px;
+      min-height: auto;
+      overflow-wrap: break-word;
+      position: relative;
+      right: 0px;
+      text-align: left;
+      text-size-adjust: 100%;
+      top: 0px;
+      width: 100%;
+      align-items: stretch;
+      perspective-origin: 291px 17.0667px;
+      transform-origin: 291px 17.0667px;
+      border: 0px solid rgb(0, 0, 0);
+      flex-flow: column nowrap;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+  }/*#DIV_45*/
+  
+  #DIV_45:after {
+      min-height: auto;
+      min-width: auto;
+      overflow-wrap: break-word;
+      text-align: left;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+  }/*#DIV_45:after*/
+  
+  #DIV_45:before {
+      min-height: auto;
+      min-width: auto;
+      overflow-wrap: break-word;
+      text-align: left;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+  }/*#DIV_45:before*/
+  
+  #H2_46 {
+      display: inline-flex;
+      height: 17.0667px;
+      overflow-wrap: break-word;
+      text-align: left;
+      text-size-adjust: 100%;
+      
+      align-items: center;
+      perspective-origin: 52.9333px 8.53333px;
+      transform-origin: 52.9417px 8.53333px;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+      margin: 0px;
+  }/*#H2_46*/
+  
+  #H2_46:after {
+      overflow-wrap: break-word;
+      text-align: left;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+  }/*#H2_46:after*/
+  
+  #H2_46:before {
+      overflow-wrap: break-word;
+      text-align: left;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+  }/*#H2_46:before*/
+  
+  #A_47 {
+      color: rgb(38, 38, 38);
+      display: block;
+      height: 17.0667px;
+      min-height: auto;
+      min-width: auto;
+      overflow-wrap: break-word;
+      text-align: left;
+      text-decoration: none solid rgb(38, 38, 38);
+      text-size-adjust: 100%;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      /*width: 101.883px;*/
+      column-rule-color: rgb(38, 38, 38);
+      perspective-origin: 53.4333px 8.53333px;
+      transform-origin: 53.4417px 8.53333px;
+      caret-color: rgb(38, 38, 38);
+      border: 0px none rgb(38, 38, 38);
+      font: normal normal 600 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+      margin: 0px 4px 0px -5px;
+      outline: rgb(38, 38, 38) none 0px;
+      overflow: hidden;
+      padding: 0px 0px 0px 5px;
+  }/*#A_47*/
+  
+  #A_47:after {
+      color: rgb(38, 38, 38);
+      min-height: auto;
+      min-width: auto;
+      overflow-wrap: break-word;
+      text-align: left;
+      text-decoration: none solid rgb(38, 38, 38);
+      text-size-adjust: 100%;
+      white-space: nowrap;
+      column-rule-color: rgb(38, 38, 38);
+      caret-color: rgb(38, 38, 38);
+      border: 0px none rgb(38, 38, 38);
+      font: normal normal 600 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+      outline: rgb(38, 38, 38) none 0px;
+  }/*#A_47:after*/
+  
+  #A_47:before {
+      color: rgb(38, 38, 38);
+      min-height: auto;
+      min-width: auto;
+      overflow-wrap: break-word;
+      text-align: left;
+      text-decoration: none solid rgb(38, 38, 38);
+      text-size-adjust: 100%;
+      white-space: nowrap;
+      column-rule-color: rgb(38, 38, 38);
+      caret-color: rgb(38, 38, 38);
+      border: 0px none rgb(38, 38, 38);
+      font: normal normal 600 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+      outline: rgb(38, 38, 38) none 0px;
+  }/*#A_47:before*/
+  
+  #SPAN_48, #SPAN_49, #SPAN_61, #SPAN_73 {
+      overflow-wrap: break-word;
+      text-align: left;
+      text-size-adjust: 100%;
+      perspective-origin: 0px 0px;
+      transform-origin: 0px 0px;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+  }/*#SPAN_48, #SPAN_49, #SPAN_61, #SPAN_73*/
+  
+  #SPAN_48:after, #SPAN_49:after, #SPAN_61:after, #SPAN_73:after {
+      overflow-wrap: break-word;
+      text-align: left;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+  }/*#SPAN_48:after, #SPAN_49:after, #SPAN_61:after, #SPAN_73:after*/
+  
+  #SPAN_48:before, #SPAN_49:before, #SPAN_61:before, #SPAN_73:before {
+      overflow-wrap: break-word;
+      text-align: left;
+      text-size-adjust: 100%;
+      font: normal normal 400 normal 14px / 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      list-style: none outside none;
+  }/*#SPAN_48:before, #SPAN_49:before, #SPAN_61:before, #SPAN_73:before*/
+  
+  .lightbox-block {
+    max-width: 600px;
+    padding: 15px 20px;
+    margin: 40px auto;
+    overflow: auto;
+    background: #fff;
+    border-radius: 3px; 
+  }

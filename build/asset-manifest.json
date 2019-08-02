@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.84d46ea3.chunk.css",
+    "main.js": "/static/js/main.fe3b22b4.chunk.js",
+    "main.js.map": "/static/js/main.fe3b22b4.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.2beca9a0.chunk.css": "/static/css/2.2beca9a0.chunk.css",
+    "static/js/2.e63714d9.chunk.js": "/static/js/2.e63714d9.chunk.js",
+    "static/js/2.e63714d9.chunk.js.map": "/static/js/2.e63714d9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a1cb785430a9db97eccd414c698bee9f.js": "/precache-manifest.a1cb785430a9db97eccd414c698bee9f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2beca9a0.chunk.css.map": "/static/css/2.2beca9a0.chunk.css.map",
+    "static/css/main.84d46ea3.chunk.css.map": "/static/css/main.84d46ea3.chunk.css.map",
+    "static/media/brand-icons.min.css": "/static/media/brand-icons.fdb3df0f.woff",
+    "static/media/v2.css": "/static/media/dashboard2-header.0b51d3c9.jpg",
+    "static/media/font-awesome.min.css": "/static/media/font-awesome.fee66e71.woff",
+    "static/media/login.css": "/static/media/login.a307f83d.jpg",
+    "static/media/web-icons.min.css": "/static/media/web-icons.f3d4e9aa.ttf"
+  }
+}
